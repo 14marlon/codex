@@ -148,3 +148,9 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+.author {
+  color: white;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
